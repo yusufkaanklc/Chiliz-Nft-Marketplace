@@ -1,7 +1,7 @@
 
 # Blockmart NFT Marketplace
+NFT Marketplace on the `CHZ network` with `next.js` and `TypeScript` third web-generated beta version
 
-Beta version of NFT Marketplace on the CHZ network built using thirdweb
 
 ## Configuration Process
 
